@@ -7,7 +7,7 @@ Created on Sun Feb 12 14:46:02 2023
 import pandas as pd
 import numpy as np
 import streamlit as st
-import matplotlib.pyplot as plt
+import matplotlib as plt
 st.set_page_config (layout="wide")
  
 st.title('Athlete All Data')
